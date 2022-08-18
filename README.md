@@ -13,9 +13,11 @@
            
          
 ## “novo” opengl: 
-           Código "CubeApp.py";
-           Rodar no Terminal: cd newgly, python3 CubeApp.py 
+           Código "newglpy/CubeApp.py";
+           Rodar no Terminal: cd newglpy
+                              python3 CubeApp.py 
 
 ## shader no “novo” opengl: 
-           Código "ShaderApp.py";
-           Rodar no Terminal: cd newgly, python3 ShaderApp.py 
+           Código "newglpy/ShaderApp.py";
+           Rodar no Terminal: cd newglpy
+                              python3 ShaderApp.py 
