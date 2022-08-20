@@ -7,7 +7,7 @@
            Rodar no Terminal: python3 mundo.py
            
   
-## Hiperbólico: 
+## Hiperbólica Iluminação: 
            Código "curva.py";
            Rodar no Terminal: python3 curva.py 
            
